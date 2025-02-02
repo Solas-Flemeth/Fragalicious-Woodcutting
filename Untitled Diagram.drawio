@@ -1,481 +1,839 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2074" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2574" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 1 - Primitive&lt;/h1&gt;&lt;p&gt;Wood cutting is in a primitive state and relies on slow cutting of the tree. Much wood is wasted and no byproducts are received.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-820" width="480" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 1 - Primitive&lt;/h1&gt;&lt;p&gt;Wood cutting is in a primitive state and relies on slow cutting of the tree. Much wood is wasted and no byproducts are received.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="-820" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-43">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="-650" as="targetPoint" />
+            <mxPoint x="250" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-43" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-680" width="140" height="60" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-43" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="-680" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-44" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-43">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-44" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-43" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-53" target="CnZhxhSNQTcuNaKCxrJj-58">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-53" target="CnZhxhSNQTcuNaKCxrJj-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-53" value="Cut Log on Chopping Block with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="-680" width="140" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-53" value="Cut Log on Chopping Block with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="-680" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-54" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-53">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-54" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-53" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-55" value="1 Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-53">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-55" value="1 Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-53" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-58" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="-680" width="140" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-58" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="-680" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-59" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-58">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-59" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-58" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-60" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-58">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-60" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-58" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 2 - Copper&lt;/h1&gt;&lt;p&gt;The player now has basic tools to start manipulating logs beyond basic timber. The player can now debark wood crudely with a bark spud and make planks. The amount of planks are limited and based upon the quality of the wood (RNG). Additionally, the player may start using bark to make tannin for leather&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="-590" width="480" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 2 - Copper&lt;/h1&gt;&lt;p&gt;The player now has basic tools to start manipulating logs beyond basic timber. The player can now debark wood crudely with a bark spud and make planks. The amount of planks are limited and based upon the quality of the wood (RNG). Additionally, the player may start using bark to make tannin for leather&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="29" y="-580" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-80">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-80" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="-405" as="targetPoint" />
+            <mxPoint x="250" y="-395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-80" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-435" width="140" height="60" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-80" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="-425" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-81" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-80">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-81" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-80" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-89" target="CnZhxhSNQTcuNaKCxrJj-96">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-89" target="CnZhxhSNQTcuNaKCxrJj-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-129" value="Plank&lt;div&gt;Tree&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-100">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-129" value="Plank&lt;div&gt;Tree&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CnZhxhSNQTcuNaKCxrJj-100" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-89" value="Debark wood with Bark Spud in primitive Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="-450" width="180" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-89" value="Debark wood with Bark Spud in primitive Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="-440" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-94" value="0-1 Log Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-89">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-94" value="0-1 Log Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-89" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-91" value="1 Debarked Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-89">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-91" value="1 Debarked Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-89" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-92" value="1 Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-89">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-92" value="1 Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-89" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-96" target="CnZhxhSNQTcuNaKCxrJj-138">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-96" target="CnZhxhSNQTcuNaKCxrJj-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-96" target="CnZhxhSNQTcuNaKCxrJj-145">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-96" target="CnZhxhSNQTcuNaKCxrJj-145" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="-250" />
+              <mxPoint x="630" y="-240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-220" value="Firewood Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-148">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-220" value="Firewood Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CnZhxhSNQTcuNaKCxrJj-148" vertex="1" connectable="0">
           <mxGeometry x="0.0383" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-96" value="Use Wood Wedges in Debarked Log and Hammer it on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="-435" width="180" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-96" value="Use Wood Wedges in Debarked Log and Hammer it on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="515" y="-425" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-97" value="2 Split Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-96">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-97" value="2 Split Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-96" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-99" value="1 Debarked Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-96">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-99" value="1 Debarked Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-96" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-101">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.063;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-101" edge="1" target="CnZhxhSNQTcuNaKCxrJj-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="-128" as="targetPoint" />
+            <mxPoint x="540" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-101" value="Boil Bark In Pot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="-173" width="120" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-101" value="Boil Bark In Pot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="509" y="70" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-102" value="Bark Mush ( See Tannin Table)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-101">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-102" value="Bark Mush ( See Tannin Table)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-101" vertex="1">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-283" value="1 Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-101">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-283" value="1 Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-101" vertex="1">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-104" value="1 Bark" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-101">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-104" value="1 Bark" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-101" vertex="1">
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-110" value="Tannin Table&lt;div&gt;Wood |&amp;nbsp; Bark Mush&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-355" width="180" height="270" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-110" value="Tannin Table&lt;div&gt;Wood |&amp;nbsp; Bark Mush&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="-345" width="180" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-112" value="Oak | 10" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-112" value="Oak | 10" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-114" value="Walnut | 7" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-114" value="Walnut | 7" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-121" value="Larch | 6" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-121" value="Larch | 6" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-120" value="Birch | 5" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-120" value="Birch | 5" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-119" value="Redwood | 4" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-119" value="Redwood | 4" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-118" value="Bald Cypress | 3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-118" value="Bald Cypress | 3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="180" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-117" value="Ebony | 2" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-117" value="Ebony | 2" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="210" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-116" value="Maple | 1" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-110">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-116" value="Maple | 1" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-110" vertex="1">
           <mxGeometry y="240" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-89" target="CnZhxhSNQTcuNaKCxrJj-102">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-89" target="CnZhxhSNQTcuNaKCxrJj-101" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="-185" as="sourcePoint" />
-            <mxPoint x="360" y="-235" as="targetPoint" />
+            <mxPoint x="330" y="-175" as="sourcePoint" />
+            <mxPoint x="340" y="20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-128" />
+              <mxPoint x="340" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-128" value="Leather Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-122">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-128" value="Leather Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CnZhxhSNQTcuNaKCxrJj-122" vertex="1" connectable="0">
           <mxGeometry x="-0.4857" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-125" value="Add bark to barrel to make tannin or strong tannin (2 Bark Mush / Liter)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="-173" width="210" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-125" value="Add bark to barrel to make tannin or strong tannin (2 Bark Mush / Liter)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="69" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-126" value="Tannin" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-125">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-126" value="Tannin" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-125" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-127" value="2 Bark Mush" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-125">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-127" value="2 Bark Mush" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-125" vertex="1">
           <mxGeometry y="60" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-282" value="1 Liter Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-125">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-282" value="1 Liter Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-125" vertex="1">
           <mxGeometry y="90" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-138" value="Use Saw to cut 2 planks from Split Log on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="-435" width="180" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-138" value="Use Saw to cut 2 planks from Split Log on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="770" y="-425" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-139" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1-2 Unseasoned Planks&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-138">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-139" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1-2 Unseasoned Planks&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-138" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-140" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-138">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-140" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-138" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-145" value="Cut Split log on chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="-295" width="180" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-145" value="Cut Split log on chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="770" y="-285" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-146" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-145">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-146" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-145" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-147" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-145">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-147" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-145" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 3 - Bronze&lt;/h1&gt;&lt;p&gt;With the discovery of bronze, the player can begin to make more advance tools including sharper saws and a sturdier sawbuck that are more effectively treat wood. This includes a sturdier sawmill and more precise tools. This allows creating additional planks and firewood. Additionally, the play can now start using wood to create Lye and Potash.&lt;/p&gt;&lt;p&gt;&amp;nbsp;The player can also create a sawdust tray to collect sawdust from work on the sawbuck. Sawdust can be used to ease life around the base including alternatives to grass for firepits, creating more clay bricks (not firebrick as it weakens the structure) and creating sawdust bricks as an alternative fuel source.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="-85" width="500" height="185" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 3 - Bronze&lt;/h1&gt;&lt;p&gt;With the discovery of bronze, the player can begin to make more advance tools including sharper saws and a sturdier sawbuck that are more effectively treat wood. This includes a sturdier sawmill and more precise tools. This allows creating additional planks and firewood. Additionally, the play can now start using wood to create Lye and Potash.&lt;/p&gt;&lt;p&gt;&amp;nbsp;The player can also create a sawdust tray to collect sawdust from work on the sawbuck. Sawdust can be used to ease life around the base including alternatives to grass for firepits, creating more clay bricks (not firebrick as it weakens the structure) and creating sawdust bricks as an alternative fuel source.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="29" y="220" width="500" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-150" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="-435" width="230" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-150" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1040" y="-425" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-151" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-150">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-151" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-150" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-152" value="1 Unseasoned Plank" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-150">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-152" value="1 Unseasoned Plank" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-150" vertex="1">
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-139" target="CnZhxhSNQTcuNaKCxrJj-151">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-139" target="CnZhxhSNQTcuNaKCxrJj-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-157">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-157" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="164" as="targetPoint" />
+            <mxPoint x="249" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-157" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="134" width="140" height="60" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-157" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="29" y="464" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-158" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-157">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-158" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-157" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-161" value="Debark wood with Bark Spud, and then draw knife in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="120" width="180" height="180" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-161" value="Debark wood with Bark Spud, and then draw knife in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="249" y="450" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-162" value="1-3 Log Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-161">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-162" value="1-2 Log Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-161" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-163" value="1 Debarked Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-161">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-163" value="1 Debarked Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-161" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-205" value="0-2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-161">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-205" value="0-2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-161" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-206" value="3% Chance for 1 Resin (If Pine)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-161">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-206" value="3% Chance for 1 Resin (If Pine)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-161" vertex="1">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-164" value="1 Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-161">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-164" value="1 Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-161" vertex="1">
           <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-167" target="CnZhxhSNQTcuNaKCxrJj-188">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-167" target="CnZhxhSNQTcuNaKCxrJj-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-167" target="CnZhxhSNQTcuNaKCxrJj-244">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-167" target="CnZhxhSNQTcuNaKCxrJj-244" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-167" value="Use Saw to cut the Log in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="120" width="180" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-167" value="Use Saw to cut the Log in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="539" y="450" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-168" value="2 Split Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-167">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-168" value="2 Split Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-167" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-218" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-167">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-218" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-167" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-169" value="1 Debarked Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-167">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-169" value="1 Debarked Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-167" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-171" target="CnZhxhSNQTcuNaKCxrJj-186">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-171" target="CnZhxhSNQTcuNaKCxrJj-186" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="684" y="535" as="targetPoint" />
+            <mxPoint x="713" y="865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-171" value="Boil Bark In Pot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="509" y="565" width="120" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-171" value="Boil Bark In Pot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="538" y="895" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-172" value="Bark Mush ( See Tannin Table)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-171">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-172" value="Bark Mush ( See Tannin Table)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-171" vertex="1">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-284" value="1 Liter of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-171">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-284" value="1 Liter of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-171" vertex="1">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-173" value="1 Bark" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-171">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-173" value="1 Bark" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-171" vertex="1">
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-183" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-161" target="CnZhxhSNQTcuNaKCxrJj-172">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-183" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-161" target="CnZhxhSNQTcuNaKCxrJj-172" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="384" as="sourcePoint" />
-            <mxPoint x="350" y="334" as="targetPoint" />
+            <mxPoint x="329" y="714" as="sourcePoint" />
+            <mxPoint x="379" y="664" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="610" />
+              <mxPoint x="339" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-184" value="Leather Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-183">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-184" value="Leather Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CnZhxhSNQTcuNaKCxrJj-183" vertex="1" connectable="0">
           <mxGeometry x="-0.4857" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-185" value="Add bark to barrel to make tannin or strong tannin (2 Bark Mush / Liter)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="694" y="580" width="210" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-185" value="Add bark to barrel to make tannin or strong tannin (2 Bark Mush / Liter)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="723" y="910" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-186" value="Tannin" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-185">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-186" value="Tannin" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-185" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-285" value="1 Liter Of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-185">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-285" value="1 Liter Of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-185" vertex="1">
           <mxGeometry y="60" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-187" value="1 Bark Mush" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-185">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-187" value="1 Bark Mush" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-185" vertex="1">
           <mxGeometry y="90" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-188" target="CnZhxhSNQTcuNaKCxrJj-228">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-188" target="CnZhxhSNQTcuNaKCxrJj-228" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-237" value="Firewood Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-236">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-237" value="Firewood Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CnZhxhSNQTcuNaKCxrJj-236" vertex="1" connectable="0">
           <mxGeometry x="-0.6134" y="-3" relative="1" as="geometry">
             <mxPoint x="93" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-188" value="Use Saw to cut the log in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="765" y="120" width="180" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-188" value="Use Saw to cut the log in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="794" y="450" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-189" value="2 Quarter Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-188">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-189" value="2 Quarter Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-188" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-217" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-188">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-217" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-188" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-190" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-188">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-190" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-188" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-189" target="CnZhxhSNQTcuNaKCxrJj-214">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-189" target="CnZhxhSNQTcuNaKCxrJj-214" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1035" y="165" as="targetPoint" />
+            <mxPoint x="1064" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-201" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1029" y="-295" width="140" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-201" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1049" y="-285" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-202" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-201">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-202" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-201" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-203" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-201">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-203" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-201" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-146" target="CnZhxhSNQTcuNaKCxrJj-201">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-146" target="CnZhxhSNQTcuNaKCxrJj-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-162" target="CnZhxhSNQTcuNaKCxrJj-168">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-162" target="CnZhxhSNQTcuNaKCxrJj-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-219" value="Plank Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-209">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-219" value="Plank Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CnZhxhSNQTcuNaKCxrJj-209" vertex="1" connectable="0">
           <mxGeometry x="-0.3818" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-210" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="120" width="230" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-210" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1329" y="450" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-211" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-210">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-211" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-210" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-212" value="1 Unseasoned Plank" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-210">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-212" value="1 Unseasoned Plank" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-210" vertex="1">
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-213" value="Use Saw to cut 2 planks from Split Log on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="120" width="180" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-213" value="Use Saw to cut 2 planks from Split Log on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1069" y="450" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-214" value="1-2 Unseasoned Planks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-213">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-214" value="1-2 Unseasoned Planks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-213" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-238" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-213">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-238" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-213" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-215" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-213">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-215" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-213" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-214" target="CnZhxhSNQTcuNaKCxrJj-211">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-214" target="CnZhxhSNQTcuNaKCxrJj-211" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-227" value="Cut Split log on chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="279" width="180" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-227" value="Cut Split log on chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1069" y="609" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-228" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-227">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-228" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-227" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-229" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-227">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-229" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-227" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-230" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1319" y="279" width="140" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-230" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1348" y="609" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-231" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-230">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-231" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-230" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-232" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-230">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-232" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-230" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-228" target="CnZhxhSNQTcuNaKCxrJj-230">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-228" target="CnZhxhSNQTcuNaKCxrJj-230" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-241" value="Crafting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="381" y="420" width="109" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-241" value="Crafting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="410" y="750" width="109" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-242" value="9 Clay Bricks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-242" value="9 Clay Bricks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-241" vertex="1">
           <mxGeometry y="30" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-247" value="2 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-247" value="2 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-241" vertex="1">
           <mxGeometry y="60" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-243" value="8 Clay" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-243" value="8 Clay" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-241" vertex="1">
           <mxGeometry y="90" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-248">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-248" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-244" value="Sawdust&lt;div&gt;Capability&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="279" width="80" height="80" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-244" value="Sawdust&lt;div&gt;Capability&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="589" y="609" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-241">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-241" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-248" value="Crafting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="420" width="110" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-248" value="Crafting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="699" y="750" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-249" value="1 Sawdust Brick" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-248">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-249" value="1 Sawdust Brick" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-248" vertex="1">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-250" value="1 Resin" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-248">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-250" value="1 Resin" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-248" vertex="1">
           <mxGeometry y="60" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-251" value="16 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-248">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-251" value="16 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-248" vertex="1">
           <mxGeometry y="90" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-254" value="Cook 1 Quarter Log in a fire" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="400" width="180" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-277" value="Creating Firepit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="565" y="750" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-255" value="1 Potash Rich Ash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-254">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-278" value="1 Unlit Firepit" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-277" vertex="1">
+          <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-256" value="1 Quarter Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-254">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-279" value="1 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-277" vertex="1">
+          <mxGeometry y="60" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-257" value="3 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-254">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-280" value="4 Logs" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CnZhxhSNQTcuNaKCxrJj-277" vertex="1">
+          <mxGeometry y="90" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.306;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-190" target="CnZhxhSNQTcuNaKCxrJj-256">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-277" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 4 - Iron&lt;/h1&gt;&lt;p&gt;With the discovery of iron, the player can now focus on fully felling trees and processing back at base. The play can equip a logsled as a backpack item and use to carry felled trees that were cut with the felling tree axe. Players can now work on processing the entire tree at once instead of individual logs.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Trees will determine their loot based upon the amount of logs that would have been dropped originally with the tree and then receive a bonus amount of loot on top of it.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Additionally, the player can now build a carpentry bench for the purpose of sawing. This allows the player additionally accuracy and overall higher yield to woodworking out of iron.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Note: For simplicity sake, tech similar to previous trees such as wood ash or sawdust will not be shown below&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="1180" width="550" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-1" target="2tFUzqgFb_HjEgiadGRu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-1" value="Cut Tree with Felling Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1475" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-2" value="Felled Tree" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-3" value="Debark Tree with Bark Spud and drawing knife on industrial sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="519" y="1430" width="231" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-4" value="? Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-3">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-15" value="1 Debarked Tree" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-3">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-7" value="? Pine Resin (If Pine)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-3">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-8" value="1 Trimmed Felled Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-3">
+          <mxGeometry y="120" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="345" as="sourcePoint" />
-            <mxPoint x="1010" y="565" as="targetPoint" />
+            <mxPoint x="520" y="1745" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1720" />
+              <mxPoint x="521" y="1720" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-265" value="Potash Tree&lt;div&gt;Only Oak, Birch, Walnut, Larch&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-264">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-9" value="Use saw to trim branches off tree on industrial sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1430" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-10" value="? Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-9">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-11" value="? Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-9">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-12" value="? Saplings" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-9">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-13" value="1 Trimmed Felled Tree" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-9">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-14" value="1 Felled Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-9">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-11" target="2tFUzqgFb_HjEgiadGRu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-19" value="Saw Tree on Industrial sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="1430" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-20" value="? Debarked Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-19">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-31" value="? Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-19">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-23" value="1 debarked Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-19">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-24" value="Chop Log on industrial sawbuck into logs (refer to tier past this)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="519" y="1660" width="231" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-25" value="? Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-24">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-28" value="1 Felled&amp;nbsp; Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-24">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1504.5" as="sourcePoint" />
+            <mxPoint x="870" y="1505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-37" value="Saw Debarked Log On Carpentry Bench" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="1430" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-38" value="2 Split Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-37">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-39" value="1-3 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-37">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-40" value="1 Debarked Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-37">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-31" target="2tFUzqgFb_HjEgiadGRu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-42" value="Saw Split&amp;nbsp; Log on Carpentry Bench" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1499" y="1430" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-43" value="2 Quarter Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-42">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-44" value="1-3 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-42">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-45" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-42">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-39" target="2tFUzqgFb_HjEgiadGRu-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-47" value="Saw Quarter Log on Carpentry bench" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1800" y="1430" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-48" value="1-3 Unseasoned Planks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-47">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-49" value="1-3 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-47">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-50" value="1 Quarter Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-47">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-44" target="2tFUzqgFb_HjEgiadGRu-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-52" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2130" y="1430" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-53" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-52">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-54" value="1 Unseasoned Plank" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-52">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-48" target="2tFUzqgFb_HjEgiadGRu-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-61" value="Saw Unseasoned Plank on Carpentry Bench" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2129" y="1600" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-62" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-61">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-63" value="0-1 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-61">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-64" value="1 Unseasoned Planks" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-61">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.427;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-50" target="2tFUzqgFb_HjEgiadGRu-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2031" y="1665" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1899" y="1665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-66" value="Cook 1 Quarter Log in a fire" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1069" y="730" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-67" value="1 Wood Ash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-66">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-68" value="1 Quarter Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-66">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-69" value="3 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-66">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.306;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2tFUzqgFb_HjEgiadGRu-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="570" as="sourcePoint" />
+            <mxPoint x="1039" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-71" value="Potash Tree&lt;div&gt;Only Oak, Birch, Walnut, Larch&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tFUzqgFb_HjEgiadGRu-70">
           <mxGeometry x="-0.4775" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-267" value="Create Lye with water and ash in a barrel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="385" width="180" height="120" as="geometry" />
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-72" value="Create Lye with water and ash in a barrel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1329" y="732" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-268" value="1 Liter of Lye" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-267">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-73" value="1 Liter of Lye" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-72">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-269" value="1 Potash Rich Ash" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-267">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-74" value="1 Wood Ash" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-72">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-270" value="1 Liter of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-267">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-75" value="1 Liter of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-72">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-255" target="CnZhxhSNQTcuNaKCxrJj-267">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.013;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-68" target="2tFUzqgFb_HjEgiadGRu-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-272" value="Crystalize Potash by boiling Lye" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="385" width="180" height="90" as="geometry" />
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-77" value="Crystalize Potash by boiling Lye" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1569" y="731" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-273" value="Potash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-272">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-78" value="Potash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-77">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-274" value="1 Liter of Lye" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-272">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-79" value="1 Liter of Lye" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-77">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-268" target="CnZhxhSNQTcuNaKCxrJj-272">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-73" target="2tFUzqgFb_HjEgiadGRu-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-277" value="Creating Firepit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="536" y="420" width="110" height="120" as="geometry" />
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-81" value="Cook 1 Quarter Log in a fire" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="646" y="-100" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-278" value="1 Unlit Firepit" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-277">
-          <mxGeometry y="30" width="110" height="30" as="geometry" />
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-82" value="1 Wood Ash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-81">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-279" value="1 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-277">
-          <mxGeometry y="60" width="110" height="30" as="geometry" />
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-83" value="1 Half Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-81">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-280" value="4 Logs" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-277">
-          <mxGeometry y="90" width="110" height="30" as="geometry" />
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-84" value="3 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-81">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-277">
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.953;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2tFUzqgFb_HjEgiadGRu-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-330" as="sourcePoint" />
+            <mxPoint x="1240" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-86" value="Potash Tree&lt;div&gt;Only Oak, Birch, Walnut, Larch&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tFUzqgFb_HjEgiadGRu-85">
+          <mxGeometry x="-0.4775" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-87" value="Create Lye with water and ash in a barrel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="-100" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-88" value="1 Liter of Lye" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-87">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-89" value="1 Wood Ash" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-87">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-90" value="1 Liter of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-87">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-81" target="2tFUzqgFb_HjEgiadGRu-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-92" value="Crystalize Potash by boiling Lye" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="-99" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-93" value="Potash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-92">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-94" value="1 Liter of Lye" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-92">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.128;entryDx=0;entryDy=0;exitX=0.995;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-89" target="2tFUzqgFb_HjEgiadGRu-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-103" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 5 - Steel&lt;/h1&gt;&lt;p&gt;With the discovery of steel players can now begin processing more wood with mechanical power. Additionally, the player has made a more advance logsled that can carry more wood securely&lt;/p&gt;&lt;p&gt;Debarker - a machine with two toothed wheels that turn in towards the wood to remove bark.&lt;/p&gt;&lt;p&gt;Industrial Saw - A large saw that is fed by a cart trolley to saw the wood in half&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="1820" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-109" value="Cut Tree with Felling Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="2030" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-110" value="Felled Tree" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-109">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-111" target="2tFUzqgFb_HjEgiadGRu-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-111" value="Place Tree On Debarker" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="249" y="2030" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-112" value="? Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-111">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-113" value="? Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-111">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-117" value="? Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-111">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-114" value="? Saplings" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-111">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-115" value="1 Debarked Tree" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-111">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-116" value="1 Felled Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-111">
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-110" target="2tFUzqgFb_HjEgiadGRu-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-127" value="Use Felled tree on industrial Saw&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="579" y="2030" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-128" value="? Debarked Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-127">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-129" value="? Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-127">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-130" value="1 debarked Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-127">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-132" value="Use Felled tree on industrial Saw&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="2033" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-133" value="? Debarked Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-132">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-134" value="? Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-132">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-135" value="1 debarked Tree" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-132">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-127" target="2tFUzqgFb_HjEgiadGRu-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-137" value="&lt;b&gt;Note:&lt;/b&gt; The Industrial saw&#39;s cart can hold multiple items of the same type at once to saw. This does not count for the debarked tree" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1049" y="1930" width="197" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-139" value="Use Debarked Log on industrial saw" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="2033" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-140" value="1-3 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-139">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-141" value="2 Split Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-139">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-142" value="1 Debarked log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-139">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-134" target="2tFUzqgFb_HjEgiadGRu-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-145" target="2tFUzqgFb_HjEgiadGRu-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-145" value="Use split log on industrial saw" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1543.5" y="2033" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-146" value="1-3 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-145">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-147" value="2 Quarter logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-145">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-148" value="1 Debarked log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-145">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-140" target="2tFUzqgFb_HjEgiadGRu-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-150" value="Use Quarter Log on Split Log" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1870" y="2033" width="231" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-151" value="1-3 Sawdust" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-150">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-152" value="2-4 Unseasoned Planks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-150">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-153" value="1 Quarter Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-150">
+          <mxGeometry y="90" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-146" target="2tFUzqgFb_HjEgiadGRu-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-155" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2200" y="2033" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-156" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-155">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-157" value="1 Unseasoned Plank" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-155">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-151" target="2tFUzqgFb_HjEgiadGRu-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-159" value="Place quarter log on chopping block by Power Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1870" y="2220" width="231" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-160" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-159">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-162" value="1 quarter log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-159">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-166" value="Place firewood on chopping block by power axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2190" y="2220" width="231" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-168" value="1 Firewood" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-166">
+          <mxGeometry y="30" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-167" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2tFUzqgFb_HjEgiadGRu-166">
+          <mxGeometry y="60" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tFUzqgFb_HjEgiadGRu-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2tFUzqgFb_HjEgiadGRu-160" target="2tFUzqgFb_HjEgiadGRu-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
