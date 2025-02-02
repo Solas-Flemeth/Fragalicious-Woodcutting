@@ -179,8 +179,8 @@
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-147" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-145">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 3 - Bronze&lt;/h1&gt;&lt;p&gt;With the discovery of bronze, the player can begin to make more advance tools that are more effectively treat wood. This includes a sturdier sawmill and more precise tools. The player now also can use sawdust. A new item crafting set is added too: Sawdust&lt;/p&gt;&lt;p&gt;Sawdust is a byproduct from sawing. Sawdust is an alternative fuel source. Players can make Sawdust bricks that burn longer than traditional firewood at the cost of clay or&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="-80" width="480" height="120" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tier 3 - Bronze&lt;/h1&gt;&lt;p&gt;With the discovery of bronze, the player can begin to make more advance tools that are more effectively treat wood. This includes a sturdier sawmill and more precise tools. The player now also can use sawdust. A new item crafting set is added too: Sawdust&lt;/p&gt;&lt;p&gt;Sawdust is a byproduct from sawing. Sawdust is an alternative fuel source. Sawdust plays a vital role in optimizing firebase works. Players can use sap and large amounts of sawdust to create sawdust bricks to burn longer. Additionally, they can substitute sawdust to start fires or add sawdust to create more bricks. This cannot be done for&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="-85" width="500" height="185" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-150" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="-435" width="230" height="90" as="geometry" />
@@ -196,17 +196,17 @@
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="125" as="targetPoint" />
+            <mxPoint x="220" y="164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-157" value="Cut Tree with Axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="95" width="140" height="60" as="geometry" />
+          <mxGeometry y="134" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-158" value="Vanilla Tree Drops" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-157">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-161" value="Debark wood with Bark Spud, and then draw knife in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="81" width="180" height="180" as="geometry" />
+          <mxGeometry x="220" y="120" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-162" value="1-3 Log Bark" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-161">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -226,8 +226,11 @@
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-167" target="CnZhxhSNQTcuNaKCxrJj-188">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-167" target="CnZhxhSNQTcuNaKCxrJj-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-167" value="Use Saw to cut the Log in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="81" width="180" height="120" as="geometry" />
+          <mxGeometry x="510" y="120" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-168" value="2 Split Log" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-167">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -238,13 +241,13 @@
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-169" value="1 Debarked Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-167">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-171">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-171" target="CnZhxhSNQTcuNaKCxrJj-186">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="535" as="targetPoint" />
+            <mxPoint x="684" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-171" value="Boil Bark In Pot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="490" width="120" height="90" as="geometry" />
+          <mxGeometry x="509" y="565" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-172" value="+ Bark Mush ( See Tannin Table)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-171">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
@@ -253,7 +256,7 @@
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-174" value="Tannin Table&lt;div&gt;Wood |&amp;nbsp; Bark Mush&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="175" width="180" height="270" as="geometry" />
+          <mxGeometry y="214" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-175" value="Oak | 10" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-174">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -281,10 +284,10 @@
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-183" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-161" target="CnZhxhSNQTcuNaKCxrJj-172">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="345" as="sourcePoint" />
-            <mxPoint x="350" y="295" as="targetPoint" />
+            <mxPoint x="300" y="384" as="sourcePoint" />
+            <mxPoint x="350" y="334" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="535" />
+              <mxPoint x="310" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -294,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-185" value="Add bark to barrel to make tannin or strong tannin (2 Bark Mush / Liter)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="490" width="210" height="90" as="geometry" />
+          <mxGeometry x="694" y="565" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-186" value="+ Bark Mush" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-185">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -307,11 +310,11 @@
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-237" value="Firewood Tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-236">
           <mxGeometry x="-0.6134" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="93" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-188" value="Use Saw to cut the log in sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="765" y="81" width="180" height="120" as="geometry" />
+          <mxGeometry x="765" y="120" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-189" value="2 Quarter Logs" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-188">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -324,7 +327,7 @@
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-189" target="CnZhxhSNQTcuNaKCxrJj-214">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1035" y="126" as="targetPoint" />
+            <mxPoint x="1035" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-201" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -348,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-210" value="Place planks in a pile in world (48 Hours ingame - Does not work in containers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="81" width="230" height="90" as="geometry" />
+          <mxGeometry x="1300" y="120" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-211" value="1 Plank" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-210">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -357,7 +360,7 @@
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-213" value="Use Saw to cut 2 planks from Split Log on Sawbuck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="81" width="180" height="120" as="geometry" />
+          <mxGeometry x="1040" y="120" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-214" value="1-2 Unseasoned Planks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-213">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -372,7 +375,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-227" value="Cut Split log on chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="240" width="180" height="90" as="geometry" />
+          <mxGeometry x="1040" y="279" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-228" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-227">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -381,7 +384,7 @@
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-230" value="Cut Firewood On Chopping Block with axe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1319" y="240" width="140" height="90" as="geometry" />
+          <mxGeometry x="1319" y="279" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-231" value="2 Sticks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-230">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -392,14 +395,88 @@
         <mxCell id="CnZhxhSNQTcuNaKCxrJj-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-228" target="CnZhxhSNQTcuNaKCxrJj-230">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-241" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="280" width="180" height="90" as="geometry" />
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-241" value="Crafting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381" y="420" width="109" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-242" value="2 Firewood" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-242" value="9 Clay Bricks" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+          <mxGeometry y="30" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-247" value="2 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+          <mxGeometry y="60" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-243" value="8 Clay" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+          <mxGeometry y="90" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-244" value="Sawdust&lt;div&gt;Crafting&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="279" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-244" target="CnZhxhSNQTcuNaKCxrJj-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-248" value="Crafting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-249" value="1 Sawdust Brick" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-248">
+          <mxGeometry y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-250" value="1 Resin" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-248">
+          <mxGeometry y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-251" value="16 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-248">
+          <mxGeometry y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-254" value="Cook 1 Quarter Log in a fire" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="400" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-255" value="1 Potash Rich Ash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-254">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CnZhxhSNQTcuNaKCxrJj-243" value="1 Split Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-241">
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-256" value="1 Quarter Log" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-254">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-257" value="3 Sawdust" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-254">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.306;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-190" target="CnZhxhSNQTcuNaKCxrJj-256">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="345" as="sourcePoint" />
+            <mxPoint x="1010" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-265" value="Potash Tree&lt;div&gt;Only Oak, Birch, Walnut, Larch&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnZhxhSNQTcuNaKCxrJj-264">
+          <mxGeometry x="-0.4775" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-267" value="Create Lye with water and ash in a barrel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="385" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-268" value="1 Liter of Lye" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-267">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-269" value="1 Potash Rich Ash" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-267">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-270" value="1 Liter of Water" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-267">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-255" target="CnZhxhSNQTcuNaKCxrJj-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-272" value="Crystalize Potash by boiling Lye" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1540" y="385" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-273" value="Potash" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-272">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-274" value="1 Liter of Lye" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CnZhxhSNQTcuNaKCxrJj-272">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnZhxhSNQTcuNaKCxrJj-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CnZhxhSNQTcuNaKCxrJj-268" target="CnZhxhSNQTcuNaKCxrJj-272">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
